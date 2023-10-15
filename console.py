@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# The script when executed provides a command prompt (hbnb),
+# The script provides a command prompt (hbnb) after execution,
 # where users can enter commands to interact with the HolbertonBnB application.
 
 """Defines the HBnB console."""
