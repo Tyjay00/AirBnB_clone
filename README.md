@@ -6,7 +6,7 @@ The following individuals have contributed to the development of the AirBnB Clon
 
 Tyrone Joel <tyronejoel04@gmail.com>
 
-Zwivhuya Muthathi <>
+Zwivhuya Muthathi <zwivhuyamuthathi@gmail.com>
 
 ## Description
 
