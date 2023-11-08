@@ -1,3 +1,5 @@
+/* Reset margin and padding for the entire web page */
+
 body {
   margin: 0;
   padding: 0;
